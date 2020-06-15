@@ -16,14 +16,14 @@ $ npm install
 Ao desenvolver seu website com tokens de design use `npm run dev`
 e depois abra em [localhost:3000](http://localhost:3000).
 
-![LocalizaDesignToken](https://raw.githubusercontent.com/localiza-ux/designtokens/master/screenshort-token.png)
+![LocalizaDesignToken](https://raw.githubusercontent.com/localiza-ux/designtokens/master/new-screenshort-token.png)
 
 
 ## Documentação - Localiza Design Tokens
 
 Após realizar realizar o procedimento anteriormente, você poderá visualizar a documentação do design token, acessando o botão - [ DOCUMENTAÇÃO ].
 
-![LocalizaDesignTokenDOCS](https://raw.githubusercontent.com/localiza-ux/designtokens/master/screenshort-doc%20.png?token=AP3KYUJ3WTIPLBI3RUK2DOC6462QI)
+![LocalizaDesignTokenDOCS](https://raw.githubusercontent.com/localiza-ux/designtokens/master/new-screenshort-doc%20.png?token=AP3KYUJ3WTIPLBI3RUK2DOC6462QI)
 
 
 ## Desenvolvimento
