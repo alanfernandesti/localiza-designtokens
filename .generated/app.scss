@@ -1,0 +1,107 @@
+// Estes são os padrões de border radius
+$sharp: 0px;
+$rounded: 4px;
+$border-radius-circle: 50%;
+// Linha horizontal primária
+$horizontal-primary: rgb(0, 153, 75);
+// Linha horizontal secundária
+$horizontal-secondary: rgb(202, 219, 42);
+// Linha horizontal cinza
+$horizontal-grey: rgb(160, 169, 186);
+// Estes são os padrões de cores para borda
+$border-primary: rgb(0, 153, 75);
+$border-secondary: rgb(202, 219, 42);
+$border-success: rgb(46, 204, 113);
+$border-warning: rgb(255, 186, 63);
+$border-info: rgb(56, 123, 255);
+$border-error: rgb(231, 76, 60);
+$border-white: rgb(255, 255, 255);
+$border-light-grey: rgb(225, 228, 234);
+$border-black: rgb(1, 11, 25);
+$border-grey: rgb(160, 169, 186);
+// Escala de cores primária
+$primary: rgb(0, 153, 75);
+$primary-50: rgba(0, 153, 75, 0.5);
+$primary-25: rgba(0, 153, 75, 0.25);
+$primary-10: rgba(0, 153, 75, 0.1);
+// Escala de cores secundária
+$secondary: rgb(202, 219, 42);
+$secondary-75: rgba(202, 219, 42, 0.75);
+$secondary-50: rgba(202, 219, 42, 0.5);
+$secondary-25: rgba(202, 219, 42, 0.25);
+$secondary-10: rgba(202, 219, 42, 0.1);
+// Escala de cores terciária
+$tertiary: rgb(206, 231, 65);
+$tertiary-75: rgba(206, 231, 65, 0.75);
+$tertiary-50: rgba(206, 231, 65, 0.5);
+$tertiary-25: rgba(206, 231, 65, 0.25);
+$tertiary-10: rgba(206, 231, 65, 0.1);
+// Escala de Cores Básicas
+$black: rgb(1, 11, 25);
+$white: rgb(255, 255, 255);
+$grey: rgb(160, 169, 186);
+$light-grey: rgb(225, 228, 234);
+// Estes são os padrões de sobreamento
+$black-shadow-25: 0 2px 8px 0 rgba(7,18,37,0.2);
+$black-shadow-50: 0 4px 16px 0 rgba(7,18,37,0.2);
+$black-shadow-75: 0 6px 24px 0 rgba(7,18,37,0.2);
+$black-shadow-100: 0 8px 32px 0 rgba(7,18,37,0.2);
+$color-shadow-25: 0 2px 8px 0 rgba(61,40,146,0.2);
+$color-shadow-50: 0 4px 16px 0 rgba(61,40,146,0.2);
+$color-shadow-75: 0 6px 24px 0 rgba(61,40,146,0.2);
+$color-shadow-100: 0 8px 32px 0 rgba(61,40,146,0.2);
+// Estes são os padrões de tamanho de fontes
+$size-xxxl: 56px;
+$size-xxl: 48px;
+$size-xl: 40px;
+$size-l: 32px;
+$size-m: 24px;
+$size-s: 20px;
+$size-xs: 16px;
+$size-xxs: 14px;
+$size-xxxs: 12px;
+// Estes são os padrõe de fonte negrito
+$weight-one: 700;
+$weight-three: 400;
+// Este é o pradrão de fonte
+$font: 'Roboto', Helvetica, Arial, sans-serif;
+// Estes são os padrões de espaçamento entre letras
+$letter-spacing-one: normal;
+$letter-spacing-two: 1px;
+// Estes são os padrões de espaçamento entre linhas
+$line-height-heading: 1.6;
+$line-height-paragraph: 1.6;
+// Estes são os padrões de resoluções
+$media-query-one: (min-width: 768px);
+$media-query-two: (min-width: 1024px);
+// Estes são os padrões de opacidade
+$transparent-half: 0.5;
+$transparent-full: 1;
+// Este são os padrões de conteiner footer e header
+$height-footer: 50px;
+$tappable-square: 46px;
+// Estes são os padrões de tempo
+$duration-one: 0.08s;
+$duration-two: 0.5s;
+// Estes são os padrões de espaçamentos
+$space-xxxl: 64px;
+$space-xxl: 56px;
+$space-xl: 48px;
+$space-l: 40px;
+$space-m: 32px;
+$space-s: 24px;
+$space-xs: 16px;
+$space-xxs: 8px;
+$space-xxxs: 2px;
+// Estes são as variação de cores de fontes
+$color-text-black: rgb(1, 11, 25);
+$color-text-primary: rgb(0, 153, 75);
+$color-text-secondary: rgb(202, 219, 42);
+$color-text-success: rgb(46, 204, 113);
+$color-text-warning: rgb(255, 186, 63);
+$color-text-error: rgb(231, 76, 60);
+$color-text-grey: rgb(160, 169, 186);
+$color-text-white: rgb(255, 255, 255);
+// Este e a sobreposição de camadas ou divs
+$z-index-one: 9999;
+$z-index-two: 100;
