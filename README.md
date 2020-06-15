@@ -6,7 +6,7 @@ Exemplo de projeto para integrar Tokens de Design usando [theo](https://github.c
 ## Início
 
 ```bash
-$ git clone https://github.com/localiza-ux/localizadesigntokens.github.io.git
+$ git clone git@github.com:localiza-ux/designtokens.git
 $ cd localiza-design-tokens
 $ npm install
 ```
