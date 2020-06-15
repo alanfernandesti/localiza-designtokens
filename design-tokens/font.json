@@ -1,0 +1,16 @@
+{
+   "imports": [
+      "./aliases.json"
+    ],
+   "global": {
+      "type": "...",
+      "category": "font"
+   },
+   "props": {
+      "font": {
+         "comment": "Este é o pradrão de fonte",
+         "value": "'Roboto', Helvetica, Arial, sans-serif",
+         "category": "font"
+      }
+   }
+}

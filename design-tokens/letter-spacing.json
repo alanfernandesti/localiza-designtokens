@@ -1,0 +1,20 @@
+{
+   "imports": [
+      "./aliases.json"
+    ],
+   "global": {
+      "type": "all",
+      "category": "letter-spacing"
+   },
+   "props": {
+      "letter-spacing-one": {
+         "comment": "Estes são os padrões de espaçamento entre letras",
+         "value": "normal",
+         "category": "letter-spacing"
+      },
+      "letter-spacing-two": {
+         "value": "1px",
+         "category": "letter-spacing"
+      }
+   }
+}

@@ -1,0 +1,93 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "sharp": {
+      "comment": "Estes são os padrões de border radius",
+      "value": "0px",
+      "type": "size",
+      "category": "radius"
+    },
+    "rounded": {
+      "value": "4px",
+      "type": "size",
+      "category": "radius"
+    },
+    "border-radius-circle": {
+      "value": "50%",
+      "type": "size",
+      "category": "radius"
+    },
+    "horizontal-primary": {
+      "comment": "Linha horizontal primária",
+      "value": "{!primary}",
+      "type": "color",
+      "category": "hr-color"
+    },
+    "horizontal-secondary": {
+      "comment": "Linha horizontal secundária",
+      "value": "{!secondary}",
+      "type": "color",
+      "category": "hr-color"
+    },
+    "horizontal-grey": {
+      "comment": "Linha horizontal cinza",
+      "value": "{!grey}",
+      "type": "color",
+      "category": "hr-color"
+    },
+    "border-primary": {
+      "comment": "Estes são os padrões de cores para borda",
+      "value": "{!primary}",
+      "type": "color",
+      "category": "border-color"
+    },
+    "border-secondary": {
+      "value": "{!secondary}",
+      "type": "color",
+      "category": "border-color"
+    },
+    
+    "border-success": {
+      "value": "{!success}",
+      "type": "color",
+      "category": "border-color"
+    },
+    "border-warning": {
+      "value": "{!warning}",
+      "type": "color",
+      "category": "border-color"
+    },
+    "border-info": {
+      "value": "{!info}",
+      "type": "color",
+      "category": "border-color"
+    },
+    "border-error": {
+      "value": "{!error}",
+      "type": "color",
+      "category": "border-color"
+    },
+    "border-white": {
+      "value": "{!white}",
+      "type": "color",
+      "category": "border-color"
+    },
+    "border-light-grey": {
+      "value": "{!light-grey}",
+      "type": "color",
+      "category": "border-color"
+    },
+    "border-black": {
+      "value": "{!black}",
+      "type": "color",
+      "category": "border-color"
+    },
+    "border-grey": {
+      "value": "{!grey}",
+      "type": "color",
+      "category": "border-color"
+    }
+  }
+}

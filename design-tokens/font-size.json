@@ -1,0 +1,48 @@
+{
+   "imports": [
+      "./aliases.json"
+    ],
+   "global": {
+      "type": "font",
+      "category": "font-size"
+   },
+   "props": {
+      "size-xxxl": {
+         "comment": "Estes são os padrões de tamanho de fontes",
+         "value": "56px",
+         "category": "font-size"
+      },
+      "size-xxl": {
+         "value": "48px",
+         "category": "font-size"
+      },
+      "size-xl": {
+         "value": "40px",
+         "category": "font-size"
+      },
+      "size-l": {
+         "value": "32px",
+         "category": "font-size"
+      },
+      "size-m": {
+         "value": "24px",
+         "category": "font-size"
+      },
+      "size-s": {
+         "value": "20px",
+         "category": "font-size"
+      },
+      "size-xs": {
+         "value": "16px",
+         "category": "font-size"
+      },
+      "size-xxs": {
+         "value": "14px",
+         "category": "font-size"
+      },
+      "size-xxxs": {
+         "value": "12px",
+         "category": "font-size"
+      }
+   }
+}

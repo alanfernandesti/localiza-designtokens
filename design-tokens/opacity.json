@@ -1,0 +1,20 @@
+{ 
+   "imports": [
+      "./aliases.json"
+    ],
+   "global": {
+      "type": "...",
+      "category": "background-color"
+   },
+   "props": {
+      "transparent-half": {
+         "comment": "Estes são os padrões de opacidade",
+         "value": "0.5",
+         "category": "background-color"
+      },
+      "transparent-full": {
+         "value": "1",
+         "category": "background-color"
+      }
+   }
+}

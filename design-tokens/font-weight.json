@@ -1,0 +1,20 @@
+{   
+   "imports": [
+      "./aliases.json"
+    ],
+   "global": {
+      "type": "...",
+      "category": "font-weight"
+   },
+    "props": {
+       "weight-one": {
+          "comment": "Estes são os padrõe de fonte negrito",
+          "value": "700",
+          "category": "font-weight"
+       },
+       "weight-three": {
+          "value": "400",
+          "category": "font-weight"
+       }
+    }
+ }

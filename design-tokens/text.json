@@ -1,0 +1,47 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "global": {
+    "type": "color",
+    "category": "text-color"
+  },
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "color-text-black": {
+      "comment": "Estes são as variação de cores de fontes",
+      "value": "{!black}",
+      "category": "text-color"
+    },
+    "color-text-primary": {
+      "value": "{!primary}",
+      "category": "text-color"
+    },
+    "color-text-secondary": {
+      "value": "{!secondary}",
+      "category": "text-color"
+    },
+    "color-text-success": {
+      "value": "{!success}",
+      "category": "text-color"
+    },
+    "color-text-warning": {
+      "value": "{!warning}",
+      "category": "text-color"
+    },
+    "color-text-error": {
+      "value": "{!error}",
+      "category": "text-color"
+    },
+    "color-text-grey": {
+      "value": "{!grey}",
+      "category": "text-color"
+    },
+    "color-text-white": {
+      "value": "{!white}",
+      "category": "text-color"
+    }
+  }
+}

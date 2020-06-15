@@ -1,0 +1,119 @@
+{
+    "imports": [
+        "./aliases.json"
+    ],
+    "props": {
+        "primary": {
+        "value": "{!primary}",
+        "comment": "Escala de cores primária",
+        "type": "color",
+        "category": "background-color"
+        },
+
+        "primary-50": {
+        "value": "{!primary-50}",
+        "type": "color",
+        "category": "background-color"
+        },
+
+        "primary-25": {
+        "value": "{!primary-25}",
+        "type": "color",
+        "category": "background-color"
+        },
+
+        "primary-10": {
+        "value": "{!primary-10}",
+        "type": "color",
+        "category": "background-color"
+        },
+
+        "secondary": {
+        "value": "{!secondary}",
+        "comment": "Escala de cores secundária",
+        "type": "color",
+        "category": "background-color"
+        },
+
+        "secondary-75": {
+        "value": "{!secondary-75}",
+        "type": "color",
+        "category": "background-color"
+        },
+        
+        "secondary-50": {
+        "value": "{!secondary-50}",
+        "type": "color",
+        "category": "background-color"
+        },
+
+        "secondary-25": {
+        "value": "{!secondary-25}",
+        "type": "color",
+        "category": "background-color"
+        },
+
+        "secondary-10": {
+        "value": "{!secondary-10}",
+        "type": "color",
+        "category": "background-color"
+        },
+
+        "tertiary": {
+        "value": "{!tertiary}",
+        "comment": "Escala de cores terciária",
+        "type": "color",
+        "category": "background-color"
+        },
+
+        "tertiary-75": {
+        "value": "{!tertiary-75}",
+        "type": "color",
+        "category": "background-color"
+        },
+        
+        "tertiary-50": {
+        "value": "{!tertiary-50}",
+        "type": "color",
+        "category": "background-color"
+        },
+
+        "tertiary-25": {
+        "value": "{!tertiary-25}",
+        "type": "color",
+        "category": "background-color"
+        },
+
+        "tertiary-10": {
+        "value": "{!tertiary-10}",
+        "type": "color",
+        "category": "background-color"
+        },
+
+
+        "black": {
+        "value": "{!black}",
+        "comment": "Escala de Cores Básicas",
+        "type": "color",
+        "category": "background-color"
+        },
+        
+        "white": {
+        "value": "{!white}",
+        "type": "color",
+        "category": "background-color"
+        },
+
+        "grey": {
+        "value": "{!grey}",
+        "type": "color",
+        "category": "background-color"
+        },
+
+        "light-grey": {
+        "value": "{!light-grey}",
+        "type": "color",
+        "category": "background-color"
+        }
+    }
+}

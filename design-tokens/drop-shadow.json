@@ -1,0 +1,44 @@
+{
+   "imports": [
+      "./aliases.json"
+    ],
+   "global": {
+      "type": "shadow",
+      "category": "drop-shadow"
+   },
+   "props": {
+      "black-shadow-25": {
+         "comment": "Estes são os padrões de sobreamento",
+         "value": "0 2px 8px 0 rgba(7,18,37,0.2)",
+         "category": "drop-shadow"
+      },
+      "black-shadow-50": {
+         "value": "0 4px 16px 0 rgba(7,18,37,0.2)",
+         "category": "drop-shadow"
+      },
+      "black-shadow-75": {
+         "value": "0 6px 24px 0 rgba(7,18,37,0.2)",
+         "category": "drop-shadow"
+      },
+      "black-shadow-100": {
+         "value": "0 8px 32px 0 rgba(7,18,37,0.2)",
+         "category": "drop-shadow"
+      },
+      "color-shadow-25": {
+         "value": "0 2px 8px 0 rgba(61,40,146,0.2)",
+         "category": "drop-shadow"
+      },
+      "color-shadow-50": {
+         "value": "0 4px 16px 0 rgba(61,40,146,0.2)",
+         "category": "drop-shadow"
+      },
+      "color-shadow-75": {
+         "value": "0 6px 24px 0 rgba(61,40,146,0.2)",
+         "category": "drop-shadow"
+      },
+      "color-shadow-100": {
+         "value": "0 8px 32px 0 rgba(61,40,146,0.2)",
+         "category": "drop-shadow"
+      }
+   }
+}

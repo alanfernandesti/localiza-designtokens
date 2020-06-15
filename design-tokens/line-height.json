@@ -1,0 +1,18 @@
+{  
+   "imports": [
+      "./aliases.json"
+    ],
+   "global": {
+      "type": "number",
+      "category": "line-height"
+   },
+   "props": {
+      "line-height-heading": {
+         "comment": "Estes são os padrões de espaçamento entre linhas",
+         "value": "1.6"
+      },
+      "line-height-paragraph": {
+         "value": "1.6"
+      }
+   }
+}

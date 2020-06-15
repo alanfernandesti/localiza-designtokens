@@ -1,0 +1,21 @@
+{  
+   "imports": [
+      "./aliases.json"
+    ],
+   "global": {
+      "type": "number",
+      "category": "sizing"
+   },
+   "props": {
+      "height-footer": {
+         "comment": "Este são os padrões de conteiner footer e header",
+         "value": "50px",
+         "category": "sizing"
+      },
+      "tappable-square": {
+         "value": "46px",
+         "category": "sizing"
+      }
+   }
+   
+}

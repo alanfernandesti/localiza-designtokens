@@ -1,0 +1,43 @@
+@import ".generated/app";
+
+body {
+  padding: 200px;
+  color: #000000;
+  font-family: sans-serif;
+  background-color: #00994B;
+
+  background-image: url(./imgs/logo-loca-white.png);
+}
+
+#HomePortal{
+
+  background-image: url(../imgs/logo-loca-white.png);
+
+  .btn-primary{
+      padding: 12px 32px;
+      background-color: #CEE741;
+      border: 2px solid #CEE741;
+
+      border-radius: 6px;
+      float: left;
+      color: #00994B;
+      margin-right: 20px;
+  }
+
+  .btn-secundary{
+    padding: 12px 32px;
+    border: 2px solid #CEE741;
+    border-radius: 6px;
+    float: left;
+    text-decoration: none;
+    color: #ffffff;
+    margin-right: 20px;
+  }
+
+  .btn-neutro{
+    text-decoration: none;
+    color: #ffffff;
+    margin-right: 20px;
+    
+  }
+}

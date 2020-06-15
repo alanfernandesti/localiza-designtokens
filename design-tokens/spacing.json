@@ -1,0 +1,48 @@
+{
+  "imports": [
+    "./aliases.json"
+  ],
+  "global": {
+    "type": "...",
+    "category": "spacing"
+  },
+  "props": {
+    "space-xxxl": {
+      "comment": "Estes são os padrões de espaçamentos",
+      "value": "64px",
+      "category": "spacing"
+    },
+    "space-xxl": {
+      "value": "56px",
+      "category": "spacing"
+    },
+    "space-xl": {
+      "value": "48px",
+      "category": "spacing"
+    },
+    "space-l": {
+      "value": "40px",
+      "category": "spacing"
+    },
+    "space-m": {
+      "value": "32px",
+      "category": "spacing"
+    },
+    "space-s": {
+      "value": "24px",
+      "category": "spacing"
+    },
+    "space-xs": {
+      "value": "16px",
+      "category": "spacing"
+    },
+    "space-xxs": {
+      "value": "8px",
+      "category": "spacing"
+    },
+    "space-xxxs": {
+      "value": "2px",
+      "category": "spacing"
+    }
+  }
+}

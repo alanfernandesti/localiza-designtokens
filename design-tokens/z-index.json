@@ -1,0 +1,26 @@
+{
+   "imports": [
+      "./aliases.json"
+    ],
+   "global": {
+      "type": "number",
+      "category": "z-index"
+   },
+   "imports": [
+      "./aliases.json"
+    ],
+   "props": {
+      "z-index_one": {
+         "comment": "Este e a sobreposição de camadas ou divs",
+         "value": "9999",
+         "category": "z-index"
+
+      },
+      "z-index_two": {
+         "value": "100",
+         "category": "z-index"
+      }
+   }
+}
+
+
