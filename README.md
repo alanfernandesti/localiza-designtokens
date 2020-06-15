@@ -1,9 +1,9 @@
 
- # Localiza Design Tokens
+ # > Localiza Design Tokens
 
 O Localiza Design Tokens, são padrões de design pré-codificados e já compilados para o time de desenvolviento ganhar escalabilidade e consistencia de interface!
 
-## Início
+## > Início
 
 ```bash
 $ git clone git@github.com:localiza-ux/designtokens.git
@@ -11,7 +11,7 @@ $ cd localiza-design-tokens
 $ npm install
 ```
 
-## Rodando aplicação
+## > Rodando aplicação
 
 Ao desenvolver seu website com tokens de design use `npm run dev`
 e depois abra em [localhost:3000](http://localhost:3000).
@@ -19,19 +19,22 @@ e depois abra em [localhost:3000](http://localhost:3000).
 ![LocalizaDesignToken](https://raw.githubusercontent.com/localiza-ux/designtokens/master/new-screenshort-token.png)
 
 
-## Documentação - Localiza Design Tokens
+## > Documentação - Localiza Design Tokens
 
 Após realizar realizar o procedimento anteriormente, você poderá visualizar a documentação do design token, acessando o botão - [ DOCUMENTAÇÃO ].
 
 ![LocalizaDesignTokenDOCS](https://raw.githubusercontent.com/localiza-ux/designtokens/master/new-screenshort-doc.png)
 
 
-## Desenvolvimento
+## > Desenvolvimento
 
 Agora você pode começar a editar o seu `src/index.html` e `src/styles/main.scss`.
 
 Para ver os documentos gerados pelos seus tokens de design, acesse [localhost:3000/generated/app.html](http://localhost:3000/).
+
+```bash
 Nota: Você pode alterar seus tokens de design `./design-tokens/app.json` ou `./design-tokens/aliases.json` e ver mudanças em tempo real no seu site.
+```
 
 Você também pode usar Design Tokens na linguagem YAML, basta converter os arquivos de código neste site: [https://www.convertjson.com/json-to-yaml.htm].
 
@@ -39,6 +42,6 @@ Além disso, se você abrir [localhost:3000](http://localhost:3000) e mudar os T
 as atualizações são refletidas também em tempo real.
 
 
-## Créditos / Autoria
+## > Créditos / Autoria
 
 Equipe DesignOps Localiza
