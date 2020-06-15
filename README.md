@@ -23,7 +23,7 @@ e depois abra em [localhost:3000](http://localhost:3000).
 
 Após realizar realizar o procedimento anteriormente, você poderá visualizar a documentação do design token, acessando o botão - [ DOCUMENTAÇÃO ].
 
-![LocalizaDesignTokenDOCS](https://raw.githubusercontent.com/localiza-ux/designtokens/master/new-screenshort-doc%20.png?token=AP3KYUJ3WTIPLBI3RUK2DOC6462QI)
+![LocalizaDesignTokenDOCS](https://raw.githubusercontent.com/localiza-ux/designtokens/master/new-screenshort-doc.png)
 
 
 ## Desenvolvimento
