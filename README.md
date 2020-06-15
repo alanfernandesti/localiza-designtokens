@@ -1,7 +1,7 @@
 
  # Localiza Design Tokens
 
-Exemplo de projeto para integrar Tokens de Design usando [theo](https://github.com/salesforce-ux/theo).
+O Localiza Design Tokens, são padrões de design pré-codificados e já compilados para o time de desenvolviento ganhar escalabilidade e consistencia de interface!
 
 ## Início
 
