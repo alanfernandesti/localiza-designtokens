@@ -23,7 +23,7 @@ e depois abra em [localhost:3000](http://localhost:3000).
 
 Após realizar realizar o procedimento anteriormente, você poderá visualizar a documentação do design token, acessando o botão - [ DOCUMENTAÇÃO ].
 
-![AltaDesignTokenDOCS](https://bitbucket.org/dasa_desenv_middleware/designtoken-alta/raw/fdf1cfbabb251e6f5b5ce53166cbc90ba4b2ca85/screenshort-doc%20.png)
+![LocalizaDesignTokenDOCS](https://raw.githubusercontent.com/localiza-ux/designtokens/master/screenshort-doc%20.png?token=AP3KYUJ3WTIPLBI3RUK2DOC6462QI)
 
 
 ## Desenvolvimento
