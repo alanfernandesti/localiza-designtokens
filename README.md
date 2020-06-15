@@ -16,7 +16,7 @@ $ npm install
 Ao desenvolver seu website com tokens de design use `npm run dev`
 e depois abra em [localhost:3000](http://localhost:3000).
 
-![LocalizaDesignToken](https://bitbucket.org/dasa_desenv_middleware/designtoken-alta/raw/841f05245d71540788997a72715218cd5e042d26/screenshort-token.png)
+![LocalizaDesignToken](https://raw.githubusercontent.com/localiza-ux/designtokens/master/screenshort-token.png)
 
 
 ## Documentação - Localiza Design Tokens

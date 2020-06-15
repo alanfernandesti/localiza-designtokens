@@ -1,12 +1,13 @@
-body {
-  padding: 200px;
-  color: #000000;
-  font-family: sans-serif;
+html {
   background-color: #00994B;
-  background-image: url(./imgs/logo-loca-white.png); }
+  background-image: url(https://raw.githubusercontent.com/localiza-ux/designtokens/master/src/imgs/estrada.png);
+  background-repeat: no-repeat;
+  background-position: right 0px; }
 
 #HomePortal {
-  background-image: url(../imgs/logo-loca-white.png); }
+  padding: 80px 200px;
+  color: #000000;
+  font-family: 'Open Sans', 'sans-serif'; }
   #HomePortal .btn-primary {
     padding: 12px 32px;
     background-color: #CEE741;
@@ -14,7 +15,9 @@ body {
     border-radius: 6px;
     float: left;
     color: #00994B;
-    margin-right: 20px; }
+    margin-right: 20px;
+    color: #00994B;
+    text-decoration: none; }
   #HomePortal .btn-secundary {
     padding: 12px 32px;
     border: 2px solid #CEE741;
@@ -26,4 +29,28 @@ body {
   #HomePortal .btn-neutro {
     text-decoration: none;
     color: #ffffff;
-    margin-right: 20px; }
+    margin-right: 20px;
+    font-size: 14px; }
+    #HomePortal .btn-neutro .material-icons {
+      font-size: 20px;
+      float: left; }
+  #HomePortal h1 {
+    font-size: 52px;
+    color: #CEE741;
+    padding-bottom: 0px;
+    margin-bottom: 0px; }
+  #HomePortal h2 {
+    font-size: 24px;
+    color: #CEE741;
+    margin-bottom: 70px; }
+  #HomePortal img.logoLocaliza {
+    display: block;
+    width: 140px;
+    margin-right: 412px;
+    margin-top: 200px; }
+  #HomePortal .description {
+    font-size: 28px;
+    color: #FFF;
+    line-height: 42px;
+    margin-bottom: 40px;
+    padding-top: 14px; }
