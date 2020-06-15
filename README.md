@@ -7,7 +7,7 @@ Exemplo de projeto para integrar Tokens de Design usando [theo](https://github.c
 
 ```bash
 $ git clone https://github.com/localiza-ux/localizadesigntokens.github.io.git
-$ cd designtoken-alta
+$ cd localiza-design-tokens
 $ npm install
 ```
 
@@ -16,10 +16,10 @@ $ npm install
 Ao desenvolver seu website com tokens de design use `npm run dev`
 e depois abra em [localhost:3000](http://localhost:3000).
 
-![AltaDesignToken](https://bitbucket.org/dasa_desenv_middleware/designtoken-alta/raw/841f05245d71540788997a72715218cd5e042d26/screenshort-token.png)
+![LocalizaDesignToken](https://bitbucket.org/dasa_desenv_middleware/designtoken-alta/raw/841f05245d71540788997a72715218cd5e042d26/screenshort-token.png)
 
 
-## Documentação - Design Tokens
+## Documentação - Localiza Design Tokens
 
 Após realizar realizar o procedimento anteriormente, você poderá visualizar a documentação do design token, acessando o botão - [ DOCUMENTAÇÃO ].
 
