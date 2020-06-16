@@ -1,7 +1,7 @@
 
  # > Localiza Design Tokens
 
-O Localiza Design Tokens, são padrões de design pré-codificados e já compilados para o time de desenvolviento ganhar escalabilidade e consistencia de interface!
+Localiza Design Tokens, são padrões de design pré-codificados e já compilados para o time de desenvolviento obter escalabilidade e consistência nos padrões de desenvolvimento de interface!
 
 ## > Início
 
@@ -44,6 +44,6 @@ Além disso, se você abrir [localhost:3000](http://localhost:3000) e mudar os T
 as atualizações são refletidas também em tempo real.
 
 
-## > Créditos / Autoria
+## > Créditos
 
-Equipe DesignOps Localiza
+Localiza DesignOps 
