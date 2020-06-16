@@ -10,7 +10,7 @@
     "./letter-spacing.json",
     "./line-height.json",
     "./media-query.json",
-    "./opacity.json",
+    "./opacity-color.json",
     "./sizing.json",
     "./timing.json",
     "./spacing.json",

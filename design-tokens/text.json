@@ -23,6 +23,10 @@
       "value": "{!secondary}",
       "category": "text-color"
     },
+    "color-text-tertiary": {
+      "value": "{!tertiary}",
+      "category": "text-color"
+    },
     "color-text-success": {
       "value": "{!success}",
       "category": "text-color"

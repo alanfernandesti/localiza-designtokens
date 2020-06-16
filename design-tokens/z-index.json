@@ -3,22 +3,18 @@
       "./aliases.json"
     ],
    "global": {
-      "type": "number",
-      "category": "z-index"
+      "type": "...",
+      "category": "background-color"
    },
-   "imports": [
-      "./aliases.json"
-    ],
    "props": {
       "z-index_one": {
          "comment": "Este e a sobreposição de camadas ou divs",
          "value": "9999",
-         "category": "z-index"
-
+         "category": "background-color"
       },
       "z-index_two": {
          "value": "100",
-         "category": "z-index"
+         "category": "background-color"
       }
    }
 }

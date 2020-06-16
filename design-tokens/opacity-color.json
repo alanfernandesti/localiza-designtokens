@@ -4,17 +4,17 @@
     ],
    "global": {
       "type": "...",
-      "category": "background-color"
+      "category": "opacity-color"
    },
    "props": {
       "transparent-half": {
          "comment": "Estes são os padrões de opacidade",
          "value": "0.5",
-         "category": "background-color"
+         "category": "opacity-color"
       },
       "transparent-full": {
          "value": "1",
-         "category": "background-color"
+         "category": "opacity-color"
       }
    }
 }

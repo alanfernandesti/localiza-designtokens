@@ -31,6 +31,12 @@
       "type": "color",
       "category": "hr-color"
     },
+    "horizontal-tertiary": {
+      "comment": "Linha horizontal secundária",
+      "value": "{!tertiary}",
+      "type": "color",
+      "category": "hr-color"
+    },
     "horizontal-grey": {
       "comment": "Linha horizontal cinza",
       "value": "{!grey}",
@@ -45,6 +51,11 @@
     },
     "border-secondary": {
       "value": "{!secondary}",
+      "type": "color",
+      "category": "border-color"
+    },
+    "border-tertiary": {
+      "value": "{!tertiary}",
       "type": "color",
       "category": "border-color"
     },
