@@ -7,7 +7,7 @@ Localiza Design Tokens, são padrões de design pré-codificados e já compilado
 
 ```bash
 $ git clone git@github.com:localiza-ux/designtokens.git
-$ cd designtokens
+$ cd localiza-designtokens
 $ npm install
 ```
 
@@ -46,4 +46,4 @@ as atualizações são refletidas também em tempo real.
 
 ## > Créditos
 
-Localiza DesignOps 
+Localiza - DesignOps 
